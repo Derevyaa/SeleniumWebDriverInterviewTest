@@ -1,0 +1,168 @@
+{
+  "testCases" : [ {
+    "uid" : "6d874581352feb39",
+    "name" : "loadFirstPage",
+    "title" : "Load first page",
+    "time" : {
+      "start" : 1487850316577,
+      "stop" : 1487850326290,
+      "duration" : 9713
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ffc83e8ed59ab4b1",
+    "name" : "openIndividualsPage",
+    "title" : "Open individuals page",
+    "time" : {
+      "start" : 1487850326299,
+      "stop" : 1487850330783,
+      "duration" : 4484
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6988ab081d331e64",
+    "name" : "checkLoansLinkClicked",
+    "title" : "Check loans link clicked",
+    "time" : {
+      "start" : 1487850330786,
+      "stop" : 1487850331068,
+      "duration" : 282
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d9a9b154ed06bf7c",
+    "name" : "checkMortgagesLinkClicked",
+    "title" : "Check mortgages link clicked",
+    "time" : {
+      "start" : 1487850331071,
+      "stop" : 1487850334654,
+      "duration" : 3583
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1d95a751aeb63672",
+    "name" : "checkCalculateYourPaymentsButtonClicked",
+    "title" : "Check calculate your payments button clicked",
+    "time" : {
+      "start" : 1487850334658,
+      "stop" : 1487850339289,
+      "duration" : 4631
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a59dad10427d2aa4",
+    "name" : "checkPurchasePriceSliderWork",
+    "title" : "Check purchase price slider work",
+    "time" : {
+      "start" : 1487850339293,
+      "stop" : 1487850339568,
+      "duration" : 275
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "69303aaa5a904b25",
+    "name" : "checkClearSliderPositionUsingPurchasePriceFieldVariantFirst",
+    "title" : "Check clear slider position using purchase price field variant first",
+    "time" : {
+      "start" : 1487850339572,
+      "stop" : 1487850341753,
+      "duration" : 2181
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "61517439bc56c581",
+    "name" : "checkClearSliderPositionUsingPurchasePriceFieldVariantSecond",
+    "title" : "Check clear slider position using purchase price field variant second",
+    "time" : {
+      "start" : 1487850341757,
+      "stop" : 1487850341828,
+      "duration" : 71
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e526ddc3c560fe1c",
+    "name" : "checkPurchasePriceSliderChangePositionWithSliderPlusButton",
+    "title" : "Check purchase price slider change position with slider plus button",
+    "time" : {
+      "start" : 1487850341832,
+      "stop" : 1487850344112,
+      "duration" : 2280
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  }, {
+    "uid" : "52d278d4a3bece22",
+    "name" : "checkDownPaymentSliderChangePosition",
+    "title" : "Check down payment slider change position",
+    "time" : {
+      "start" : 1487850344153,
+      "stop" : 1487850344157,
+      "duration" : 4
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  }, {
+    "uid" : "6beb67a135fcbec7",
+    "name" : "checkAmortissementDropdown",
+    "title" : "Check amortissement dropdown",
+    "time" : {
+      "start" : 1487850344162,
+      "stop" : 1487850344164,
+      "duration" : 2
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  }, {
+    "uid" : "21fc06fd2a16019d",
+    "name" : "checkFrequenceVersementDropdown",
+    "title" : "Check frequence versement dropdown",
+    "time" : {
+      "start" : 1487850344174,
+      "stop" : 1487850344176,
+      "duration" : 2
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  }, {
+    "uid" : "dc22f12737693e4",
+    "name" : "checkTauxInteretField",
+    "title" : "Check taux interet field",
+    "time" : {
+      "start" : 1487850344188,
+      "stop" : 1487850344196,
+      "duration" : 8
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  }, {
+    "uid" : "b4a7c4641fbe899e",
+    "name" : "checkbtnCalculerButton",
+    "title" : "Checkbtn calculer button",
+    "time" : {
+      "start" : 1487850344203,
+      "stop" : 1487850344204,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  }, {
+    "uid" : "433abb0da23ebcb3",
+    "name" : "checkPaymentResultats",
+    "title" : "Check payment resultats",
+    "time" : {
+      "start" : 1487850344208,
+      "stop" : 1487850344208,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "CANCELED"
+  } ]
+}

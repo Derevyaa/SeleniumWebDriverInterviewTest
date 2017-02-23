@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="39.788" tests="15" errors="0" skipped="6" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Java\workspace\SeleniumWebDriverInterviewTest"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Java\workspace\SeleniumWebDriverInterviewTest"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADEREV~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Java\apache_maven_3.3.9\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;D:\Java\jdk1.8.0_121/bin;D:\Java\jdk1.8.0_121\bin;D:\Java\apache_maven_3.3.9\bin;D:\Java\workspace\git\Git\cmd;C:\Users\aderevyanchenko\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\aderevyanchenko"/>
+    <property name="user.timezone" value="Europe/Helsinki"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="aderevyanchenko"/>
+    <property name="java.class.path" value="D:\Java\apache_maven_3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test -DPropertyManager.file=src\test\resources\local.properties"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="D:\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Java\jdk1.8.0_121\jre\lib\resources.jar;D:\Java\jdk1.8.0_121\jre\lib\rt.jar;D:\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;D:\Java\jdk1.8.0_121\jre\lib\jsse.jar;D:\Java\jdk1.8.0_121\jre\lib\jce.jar;D:\Java\jdk1.8.0_121\jre\lib\charsets.jar;D:\Java\jdk1.8.0_121\jre\lib\jfr.jar;D:\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Java\apache_maven_3.3.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="PropertyManager.file" value="src\test\resources\local.properties"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="loadFirstPage" classname="ca.in.test.FullTest" time="9.715"/>
+  <testcase name="openIndividualsPage" classname="ca.in.test.FullTest" time="4.483"/>
+  <testcase name="checkLoansLinkClicked" classname="ca.in.test.FullTest" time="0.282"/>
+  <testcase name="checkMortgagesLinkClicked" classname="ca.in.test.FullTest" time="3.582"/>
+  <testcase name="checkCalculateYourPaymentsButtonClicked" classname="ca.in.test.FullTest" time="4.632"/>
+  <testcase name="checkPurchasePriceSliderWork" classname="ca.in.test.FullTest" time="0.285"/>
+  <testcase name="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst" classname="ca.in.test.FullTest" time="2.175"/>
+  <testcase name="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond" classname="ca.in.test.FullTest" time="0.071"/>
+  <testcase name="checkPurchasePriceSliderChangePositionWithSliderPlusButton" classname="ca.in.test.FullTest" time="2.318">
+    <failure type="java.lang.Exception">java.lang.Exception
+	at ca.in.test.FullTest.checkPurchasePriceSliderChangePositionWithSliderPlusButton(FullTest.java:158)
+</failure>
+    <system-out><![CDATA[Purchase price value is not multiple to step value
+checkPurchasePriceSliderChangePositionWithSliderPlusButton was a failure.
+ Throwable: null
+]]></system-out>
+  </testcase>
+  <testcase name="checkDownPaymentSliderChangePosition" classname="ca.in.test.FullTest" time="0">
+    <skipped message="Method FullTest.checkDownPaymentSliderChangePosition()[pri:90, instance:ca.in.test.FullTest@1da4b6b3] depends on not successfully finished methods"/>
+    <system-out><![CDATA[checkDownPaymentSliderChangePosition was skipped.
+]]></system-out>
+  </testcase>
+  <testcase name="checkAmortissementDropdown" classname="ca.in.test.FullTest" time="0">
+    <skipped message="Method FullTest.checkAmortissementDropdown()[pri:100, instance:ca.in.test.FullTest@1da4b6b3] depends on not successfully finished methods"/>
+    <system-out><![CDATA[checkAmortissementDropdown was skipped.
+]]></system-out>
+  </testcase>
+  <testcase name="checkFrequenceVersementDropdown" classname="ca.in.test.FullTest" time="0">
+    <skipped message="Method FullTest.checkFrequenceVersementDropdown()[pri:110, instance:ca.in.test.FullTest@1da4b6b3] depends on not successfully finished methods"/>
+    <system-out><![CDATA[checkFrequenceVersementDropdown was skipped.
+]]></system-out>
+  </testcase>
+  <testcase name="checkTauxInteretField" classname="ca.in.test.FullTest" time="0">
+    <skipped message="Method FullTest.checkTauxInteretField()[pri:120, instance:ca.in.test.FullTest@1da4b6b3] depends on not successfully finished methods"/>
+    <system-out><![CDATA[checkTauxInteretField was skipped.
+]]></system-out>
+  </testcase>
+  <testcase name="checkbtnCalculerButton" classname="ca.in.test.FullTest" time="0">
+    <skipped message="Method FullTest.checkbtnCalculerButton()[pri:130, instance:ca.in.test.FullTest@1da4b6b3] depends on not successfully finished methods"/>
+    <system-out><![CDATA[checkbtnCalculerButton was skipped.
+]]></system-out>
+  </testcase>
+  <testcase name="checkPaymentResultats" classname="ca.in.test.FullTest" time="0">
+    <skipped message="Method FullTest.checkPaymentResultats()[pri:140, instance:ca.in.test.FullTest@1da4b6b3] depends on not successfully finished methods"/>
+    <system-out><![CDATA[checkPaymentResultats was skipped.
+]]></system-out>
+  </testcase>
+</testsuite>

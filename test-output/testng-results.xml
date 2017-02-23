@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="15" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45914" started-at="2017-02-23T16:32:02Z" finished-at="2017-02-23T16:32:48Z">
+    <groups>
+      <group name="p1">
+        <method signature="FullTest.loadFirstPage()[pri:10, instance:ca.in.test.FullTest@5db6b845]" name="loadFirstPage" class="ca.in.test.FullTest"/>
+      </group> <!-- p1 -->
+      <group name="p2">
+        <method signature="FullTest.checkLoansLinkClicked()[pri:40, instance:ca.in.test.FullTest@5db6b845]" name="checkLoansLinkClicked" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.openIndividualsPage()[pri:20, instance:ca.in.test.FullTest@5db6b845]" name="openIndividualsPage" class="ca.in.test.FullTest"/>
+      </group> <!-- p2 -->
+      <group name="p3">
+        <method signature="FullTest.checkMortgagesLinkClicked()[pri:50, instance:ca.in.test.FullTest@5db6b845]" name="checkMortgagesLinkClicked" class="ca.in.test.FullTest"/>
+      </group> <!-- p3 -->
+      <group name="p4">
+        <method signature="FullTest.checkCalculateYourPaymentsButtonClicked()[pri:60, instance:ca.in.test.FullTest@5db6b845]" name="checkCalculateYourPaymentsButtonClicked" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkPurchasePriceSliderWork()[pri:70, instance:ca.in.test.FullTest@5db6b845]" name="checkPurchasePriceSliderWork" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkClearSliderPositionUsingPurchasePriceFieldVariantFirst()[pri:80, instance:ca.in.test.FullTest@5db6b845]" name="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkClearSliderPositionUsingPurchasePriceFieldVariantSecond()[pri:81, instance:ca.in.test.FullTest@5db6b845]" name="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkPurchasePriceSliderChangePositionWithSliderPlusButton()[pri:82, instance:ca.in.test.FullTest@5db6b845]" name="checkPurchasePriceSliderChangePositionWithSliderPlusButton" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkDownPaymentSliderChangePosition()[pri:90, instance:ca.in.test.FullTest@5db6b845]" name="checkDownPaymentSliderChangePosition" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkAmortissementDropdown()[pri:100, instance:ca.in.test.FullTest@5db6b845]" name="checkAmortissementDropdown" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkFrequenceVersementDropdown()[pri:110, instance:ca.in.test.FullTest@5db6b845]" name="checkFrequenceVersementDropdown" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkTauxInteretField()[pri:120, instance:ca.in.test.FullTest@5db6b845]" name="checkTauxInteretField" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkbtnCalculerButton()[pri:130, instance:ca.in.test.FullTest@5db6b845]" name="checkbtnCalculerButton" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkPaymentResultats()[pri:140, instance:ca.in.test.FullTest@5db6b845]" name="checkPaymentResultats" class="ca.in.test.FullTest"/>
+      </group> <!-- p4 -->
+      <group name="individualPage">
+        <method signature="FullTest.checkLoansLinkClicked()[pri:40, instance:ca.in.test.FullTest@5db6b845]" name="checkLoansLinkClicked" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.openIndividualsPage()[pri:20, instance:ca.in.test.FullTest@5db6b845]" name="openIndividualsPage" class="ca.in.test.FullTest"/>
+      </group> <!-- individualPage -->
+      <group name="mortgagePage">
+        <method signature="FullTest.checkMortgagesLinkClicked()[pri:50, instance:ca.in.test.FullTest@5db6b845]" name="checkMortgagesLinkClicked" class="ca.in.test.FullTest"/>
+      </group> <!-- mortgagePage -->
+      <group name="mortgagePageLoad">
+        <method signature="FullTest.checkCalculateYourPaymentsButtonClicked()[pri:60, instance:ca.in.test.FullTest@5db6b845]" name="checkCalculateYourPaymentsButtonClicked" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkPurchasePriceSliderWork()[pri:70, instance:ca.in.test.FullTest@5db6b845]" name="checkPurchasePriceSliderWork" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkClearSliderPositionUsingPurchasePriceFieldVariantFirst()[pri:80, instance:ca.in.test.FullTest@5db6b845]" name="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkClearSliderPositionUsingPurchasePriceFieldVariantSecond()[pri:81, instance:ca.in.test.FullTest@5db6b845]" name="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkPurchasePriceSliderChangePositionWithSliderPlusButton()[pri:82, instance:ca.in.test.FullTest@5db6b845]" name="checkPurchasePriceSliderChangePositionWithSliderPlusButton" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkDownPaymentSliderChangePosition()[pri:90, instance:ca.in.test.FullTest@5db6b845]" name="checkDownPaymentSliderChangePosition" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkAmortissementDropdown()[pri:100, instance:ca.in.test.FullTest@5db6b845]" name="checkAmortissementDropdown" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkFrequenceVersementDropdown()[pri:110, instance:ca.in.test.FullTest@5db6b845]" name="checkFrequenceVersementDropdown" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkTauxInteretField()[pri:120, instance:ca.in.test.FullTest@5db6b845]" name="checkTauxInteretField" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkbtnCalculerButton()[pri:130, instance:ca.in.test.FullTest@5db6b845]" name="checkbtnCalculerButton" class="ca.in.test.FullTest"/>
+        <method signature="FullTest.checkPaymentResultats()[pri:140, instance:ca.in.test.FullTest@5db6b845]" name="checkPaymentResultats" class="ca.in.test.FullTest"/>
+      </group> <!-- mortgagePageLoad -->
+    </groups>
+    <test name="Default test" duration-ms="45914" started-at="2017-02-23T16:32:02Z" finished-at="2017-02-23T16:32:48Z">
+      <class name="ca.in.test.FullTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ca.in.test.FullTest@5db6b845]" name="setup" is-config="true" duration-ms="9607" started-at="2017-02-23T18:32:02Z" finished-at="2017-02-23T18:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loadFirstPage()[pri:10, instance:ca.in.test.FullTest@5db6b845]" name="loadFirstPage" duration-ms="11094" started-at="2017-02-23T18:32:12Z" finished-at="2017-02-23T18:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFirstPage -->
+        <test-method status="PASS" signature="openIndividualsPage()[pri:20, instance:ca.in.test.FullTest@5db6b845]" name="openIndividualsPage" duration-ms="5261" started-at="2017-02-23T18:32:23Z" finished-at="2017-02-23T18:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openIndividualsPage -->
+        <test-method status="PASS" signature="checkLoansLinkClicked()[pri:40, instance:ca.in.test.FullTest@5db6b845]" name="checkLoansLinkClicked" duration-ms="265" started-at="2017-02-23T18:32:28Z" finished-at="2017-02-23T18:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoansLinkClicked -->
+        <test-method status="PASS" signature="checkMortgagesLinkClicked()[pri:50, instance:ca.in.test.FullTest@5db6b845]" name="checkMortgagesLinkClicked" duration-ms="5317" started-at="2017-02-23T18:32:29Z" depends-on-methods="ca.in.test.FullTest.checkLoansLinkClicked" finished-at="2017-02-23T18:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMortgagesLinkClicked -->
+        <test-method status="PASS" signature="checkCalculateYourPaymentsButtonClicked()[pri:60, instance:ca.in.test.FullTest@5db6b845]" name="checkCalculateYourPaymentsButtonClicked" duration-ms="6100" started-at="2017-02-23T18:32:34Z" depends-on-methods="ca.in.test.FullTest.checkMortgagesLinkClicked" finished-at="2017-02-23T18:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCalculateYourPaymentsButtonClicked -->
+        <test-method status="PASS" signature="checkPurchasePriceSliderWork()[pri:70, instance:ca.in.test.FullTest@5db6b845]" name="checkPurchasePriceSliderWork" duration-ms="285" started-at="2017-02-23T18:32:40Z" depends-on-methods="ca.in.test.FullTest.checkCalculateYourPaymentsButtonClicked" finished-at="2017-02-23T18:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPurchasePriceSliderWork -->
+        <test-method status="PASS" signature="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst()[pri:80, instance:ca.in.test.FullTest@5db6b845]" name="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst" duration-ms="2167" started-at="2017-02-23T18:32:40Z" depends-on-methods="ca.in.test.FullTest.checkPurchasePriceSliderWork" finished-at="2017-02-23T18:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkClearSliderPositionUsingPurchasePriceFieldVariantFirst -->
+        <test-method status="PASS" signature="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond()[pri:81, instance:ca.in.test.FullTest@5db6b845]" name="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond" duration-ms="90" started-at="2017-02-23T18:32:43Z" depends-on-methods="ca.in.test.FullTest.checkClearSliderPositionUsingPurchasePriceFieldVariantFirst" finished-at="2017-02-23T18:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkClearSliderPositionUsingPurchasePriceFieldVariantSecond -->
+        <test-method status="PASS" signature="checkPurchasePriceSliderChangePositionWithSliderPlusButton()[pri:82, instance:ca.in.test.FullTest@5db6b845]" name="checkPurchasePriceSliderChangePositionWithSliderPlusButton" duration-ms="351" started-at="2017-02-23T18:32:43Z" depends-on-methods="ca.in.test.FullTest.checkClearSliderPositionUsingPurchasePriceFieldVariantSecond" finished-at="2017-02-23T18:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPurchasePriceSliderChangePositionWithSliderPlusButton -->
+        <test-method status="PASS" signature="checkDownPaymentSliderChangePosition()[pri:90, instance:ca.in.test.FullTest@5db6b845]" name="checkDownPaymentSliderChangePosition" duration-ms="2111" started-at="2017-02-23T18:32:43Z" depends-on-methods="ca.in.test.FullTest.checkPurchasePriceSliderChangePositionWithSliderPlusButton" finished-at="2017-02-23T18:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDownPaymentSliderChangePosition -->
+        <test-method status="PASS" signature="checkAmortissementDropdown()[pri:100, instance:ca.in.test.FullTest@5db6b845]" name="checkAmortissementDropdown" duration-ms="254" started-at="2017-02-23T18:32:45Z" depends-on-methods="ca.in.test.FullTest.checkDownPaymentSliderChangePosition" finished-at="2017-02-23T18:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAmortissementDropdown -->
+        <test-method status="PASS" signature="checkFrequenceVersementDropdown()[pri:110, instance:ca.in.test.FullTest@5db6b845]" name="checkFrequenceVersementDropdown" duration-ms="225" started-at="2017-02-23T18:32:45Z" depends-on-methods="ca.in.test.FullTest.checkAmortissementDropdown" finished-at="2017-02-23T18:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFrequenceVersementDropdown -->
+        <test-method status="PASS" signature="checkTauxInteretField()[pri:120, instance:ca.in.test.FullTest@5db6b845]" name="checkTauxInteretField" duration-ms="173" started-at="2017-02-23T18:32:46Z" depends-on-methods="ca.in.test.FullTest.checkFrequenceVersementDropdown" finished-at="2017-02-23T18:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTauxInteretField -->
+        <test-method status="PASS" signature="checkbtnCalculerButton()[pri:130, instance:ca.in.test.FullTest@5db6b845]" name="checkbtnCalculerButton" duration-ms="239" started-at="2017-02-23T18:32:46Z" depends-on-methods="ca.in.test.FullTest.checkTauxInteretField" finished-at="2017-02-23T18:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbtnCalculerButton -->
+        <test-method status="FAIL" signature="checkPaymentResultats()[pri:140, instance:ca.in.test.FullTest@5db6b845]" name="checkPaymentResultats" duration-ms="787" started-at="2017-02-23T18:32:46Z" depends-on-methods="ca.in.test.FullTest.checkbtnCalculerButton" finished-at="2017-02-23T18:32:47Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [$ 836.75] but found [$ 726.35]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [$ 836.75] but found [$ 726.35]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at ca.in.test.MortgagePaymentCalculatorPage.checkPaymentResultats(MortgagePaymentCalculatorPage.java:267)
+	at ca.in.test.FullTest.checkPaymentResultats(FullTest.java:194)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPaymentResultats -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ca.in.test.FullTest@5db6b845]" name="teardown" is-config="true" duration-ms="1297" started-at="2017-02-23T18:32:47Z" finished-at="2017-02-23T18:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ca.in.test.FullTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

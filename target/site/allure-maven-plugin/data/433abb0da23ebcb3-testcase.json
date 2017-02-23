@@ -1,0 +1,62 @@
+{
+  "uid" : "433abb0da23ebcb3",
+  "name" : "checkPaymentResultats",
+  "title" : "Check payment resultats",
+  "time" : {
+    "start" : 1487850344208,
+    "stop" : 1487850344208,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : ": Skipped due to dependency on other skipped or failed test methods",
+    "stackTrace" : "ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods\n\tat ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)\n\tat ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)\n\tat org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)\n\tat org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)\n\tat org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:756)\n\tat org.testng.TestRunner.run(TestRunner.java:610)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\n\tat org.testng.TestNG.run(TestNG.java:1104)\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)\n"
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "CANCELED",
+  "suite" : {
+    "uid" : "41ff286a1b9bdf68",
+    "name" : "package ca.in.test : ca.in.test",
+    "title" : "package ca.in.test : ca.in.test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testSuite",
+    "value" : "package ca.in.test"
+  }, {
+    "name" : "testClass",
+    "value" : "ca.in.test.FullTest"
+  }, {
+    "name" : "thread",
+    "value" : "21180@derevyanchenko-pc.main(1)"
+  }, {
+    "name" : "testGroup",
+    "value" : "ca.in.test"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkPaymentResultats"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "package ca.in.test : ca.in.test"
+  }, {
+    "name" : "suite-name",
+    "value" : "package ca.in.test : ca.in.test"
+  }, {
+    "name" : "host",
+    "value" : "derevyanchenko-pc"
+  } ],
+  "parameters" : [ ]
+}

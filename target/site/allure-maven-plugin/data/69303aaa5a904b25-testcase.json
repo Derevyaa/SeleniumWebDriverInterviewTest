@@ -1,0 +1,65 @@
+{
+  "uid" : "69303aaa5a904b25",
+  "name" : "checkClearSliderPositionUsingPurchasePriceFieldVariantFirst",
+  "title" : "Check clear slider position using purchase price field variant first",
+  "time" : {
+    "start" : 1487850339572,
+    "stop" : 1487850341753,
+    "duration" : 2181
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "41ff286a1b9bdf68",
+    "name" : "package ca.in.test : ca.in.test",
+    "title" : "package ca.in.test : ca.in.test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "First story"
+  }, {
+    "name" : "feature",
+    "value" : "Selenium WebDriver Interview Test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testSuite",
+    "value" : "package ca.in.test"
+  }, {
+    "name" : "testClass",
+    "value" : "ca.in.test.FullTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkClearSliderPositionUsingPurchasePriceFieldVariantFirst"
+  }, {
+    "name" : "thread",
+    "value" : "21180@derevyanchenko-pc.main(1)"
+  }, {
+    "name" : "testGroup",
+    "value" : "ca.in.test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "package ca.in.test : ca.in.test"
+  }, {
+    "name" : "suite-name",
+    "value" : "package ca.in.test : ca.in.test"
+  }, {
+    "name" : "host",
+    "value" : "derevyanchenko-pc"
+  } ],
+  "parameters" : [ ]
+}

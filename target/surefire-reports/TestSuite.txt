@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 1, Errors: 0, Skipped: 6, Time elapsed: 39.788 sec <<< FAILURE! - in TestSuite
+checkPurchasePriceSliderChangePositionWithSliderPlusButton(ca.in.test.FullTest)  Time elapsed: 2.318 sec  <<< FAILURE!
+java.lang.Exception
+	at ca.in.test.FullTest.checkPurchasePriceSliderChangePositionWithSliderPlusButton(FullTest.java:158)
+

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1487855331822" stop="1487855379818" version="1.5.0" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1487855342456" stop="1487855350981" status="passed">
+            <name>loadFirstPage</name>
+            <steps>
+                <step start="1487855332408" stop="1487855342206" status="passed">
+                    <name>initDriver</name>
+                    <title>Initialise web driver</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1487855342464" stop="1487855350963" status="passed">
+                    <name>load</name>
+                    <title>Load Main Page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="loadFirstPage"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855350993" stop="1487855355888" status="passed">
+            <name>openIndividualsPage</name>
+            <steps>
+                <step start="1487855350997" stop="1487855355866" status="passed">
+                    <name>openIndividualsPage</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="openIndividualsPage"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855355893" stop="1487855356221" status="passed">
+            <name>checkLoansLinkClicked</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkLoansLinkClicked"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855356240" stop="1487855360709" status="passed">
+            <name>checkMortgagesLinkClicked</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkMortgagesLinkClicked"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855360721" stop="1487855373954" status="passed">
+            <name>checkCalculateYourPaymentsButtonClicked</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkCalculateYourPaymentsButtonClicked"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855373959" stop="1487855374335" status="passed">
+            <name>checkPurchasePriceSliderWork</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkPurchasePriceSliderWork"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855374339" stop="1487855376481" status="passed">
+            <name>checkClearSliderPositionUsingPurchasePriceFieldVariantFirst</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855376485" stop="1487855376551" status="passed">
+            <name>checkClearSliderPositionUsingPurchasePriceFieldVariantSecond</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855376555" stop="1487855377106" status="broken">
+            <name>checkPurchasePriceSliderChangePositionWithSliderPlusButton</name>
+            <failure>
+                <message>RuntimeException: Purchase price value is &lt;</message>
+                <stack-trace>java.lang.RuntimeException: Purchase price value is &lt;
+	at ca.in.test.MortgagePaymentCalculatorPage.setPurchasePriceSliderValueTo(MortgagePaymentCalculatorPage.java:175)
+	at ca.in.test.FullTest.checkPurchasePriceSliderChangePositionWithSliderPlusButton(FullTest.java:159)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkPurchasePriceSliderChangePositionWithSliderPlusButton"/>
+                <label name="story" value="First story"/>
+                <label name="feature" value="Selenium WebDriver Interview Test"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855377114" stop="1487855377118" status="canceled">
+            <name>checkDownPaymentSliderChangePosition</name>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkDownPaymentSliderChangePosition"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855377125" stop="1487855377127" status="canceled">
+            <name>checkAmortissementDropdown</name>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkAmortissementDropdown"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855377137" stop="1487855377143" status="canceled">
+            <name>checkFrequenceVersementDropdown</name>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkFrequenceVersementDropdown"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855377153" stop="1487855377155" status="canceled">
+            <name>checkTauxInteretField</name>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkTauxInteretField"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855377166" stop="1487855377168" status="canceled">
+            <name>checkbtnCalculerButton</name>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkbtnCalculerButton"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487855377174" stop="1487855377176" status="canceled">
+            <name>checkPaymentResultats</name>
+            <failure>
+                <message>: Skipped due to dependency on other skipped or failed test methods</message>
+                <stack-trace>ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods
+	at ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)
+	at ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1708)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+	at org.testng.internal.Invoker.registerSkippedTestResult(Invoker.java:1257)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1068)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="ca.in.test.FullTest"/>
+                <label name="testMethod" value="checkPaymentResultats"/>
+                <label name="host" value="derevyanchenko-pc"/>
+                <label name="thread" value="8836@derevyanchenko-pc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

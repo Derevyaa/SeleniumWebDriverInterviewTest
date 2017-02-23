@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="in.ca site test" thread-count="1">
+
+	<test name="1.1111First Page Load Test">
+		<groups>
+			<run>
+				<include name="p1"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="ca.in.test.FullTest"></class>
+		</classes>
+
+	</test>
+	<test name="2.Individual Page load Test">
+		<groups>
+			<run>
+				<include name="p2"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="ca.in.test.FullTest"></class>
+		</classes>
+
+	</test>
+	<test name="3.Mortgages Page Load Test">
+		<groups>
+			<run>
+				<include name="p3"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="ca.in.test.FullTest"></class>
+		</classes>
+
+	</test>
+</suite>

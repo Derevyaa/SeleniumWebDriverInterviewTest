@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="package ca.in.test">
+	<test verbose="2" name="ca.in.test">
+		<!-- <packages> -->
+		<!-- <package name="ca.in.test"/> -->
+		<!-- </packages> -->
+		<classes>
+			<class name="ca.in.test.FullTest">
+				<methods>
+<!-- 					<include name="loadFirstPage"></include> -->
+<!-- 					<include name="openIndividualsPage"></include> -->
+<!-- 					<include name="checkLanguage"></include> -->
+<!-- 					<include name="clickLoansLink"></include> -->
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

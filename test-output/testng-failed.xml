@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="ca.in.test.FullTest">
+        <methods>
+          <include name="checkFrequenceVersementDropdown"/>
+          <include name="checkTauxInteretField"/>
+          <include name="teardown"/>
+          <include name="checkPurchasePriceSliderChangePositionWithSliderPlusButton"/>
+          <include name="checkDownPaymentSliderChangePosition"/>
+          <include name="setup"/>
+          <include name="checkLoansLinkClicked"/>
+          <include name="checkClearSliderPositionUsingPurchasePriceFieldVariantFirst"/>
+          <include name="checkPaymentResultats"/>
+          <include name="checkbtnCalculerButton"/>
+          <include name="checkPurchasePriceSliderWork"/>
+          <include name="checkClearSliderPositionUsingPurchasePriceFieldVariantSecond"/>
+          <include name="checkMortgagesLinkClicked"/>
+          <include name="checkCalculateYourPaymentsButtonClicked"/>
+          <include name="checkAmortissementDropdown"/>
+        </methods>
+      </class> <!-- ca.in.test.FullTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,95 @@
+{
+  "uid" : "6d874581352feb39",
+  "name" : "loadFirstPage",
+  "title" : "Load first page",
+  "time" : {
+    "start" : 1487850316577,
+    "stop" : 1487850326290,
+    "duration" : 9713
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "41ff286a1b9bdf68",
+    "name" : "package ca.in.test : ca.in.test",
+    "title" : "package ca.in.test : ca.in.test"
+  },
+  "steps" : [ {
+    "name" : "initDriver",
+    "title" : "Initialise web driver",
+    "time" : {
+      "start" : 1487850308242,
+      "stop" : 1487850316433,
+      "duration" : 8191
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "load",
+    "title" : "Load Main Page",
+    "time" : {
+      "start" : 1487850316584,
+      "stop" : 1487850326272,
+      "duration" : 9688
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "First story"
+  }, {
+    "name" : "feature",
+    "value" : "Selenium WebDriver Interview Test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testSuite",
+    "value" : "package ca.in.test"
+  }, {
+    "name" : "testClass",
+    "value" : "ca.in.test.FullTest"
+  }, {
+    "name" : "thread",
+    "value" : "21180@derevyanchenko-pc.main(1)"
+  }, {
+    "name" : "testGroup",
+    "value" : "ca.in.test"
+  }, {
+    "name" : "testMethod",
+    "value" : "loadFirstPage"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "package ca.in.test : ca.in.test"
+  }, {
+    "name" : "suite-name",
+    "value" : "package ca.in.test : ca.in.test"
+  }, {
+    "name" : "host",
+    "value" : "derevyanchenko-pc"
+  } ],
+  "parameters" : [ ]
+}
