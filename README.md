@@ -1,4 +1,4 @@
-#Test1
+#Test2
 # QA Group - Masterclass, February 2017
 
 Run tests with maven:
